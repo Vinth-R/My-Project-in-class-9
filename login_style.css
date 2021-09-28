@@ -1,2 +1,74 @@
 /* loginStyle using css */
-[class~=box] input[type="text"]{border-left-width:.1875pc;}[class~=box] input[type="text"]:focus,[class~=box] input[type="text"]{width:187.5pt;}[class~=box] input[type="text"]{border-bottom-width:.1875pc;}[class~=box] input[type="text"]{border-right-width:.1875pc;}[class~=box] input[type="text"]{border-top-width:.1875pc;}[class~=box] input[type="text"]{border-left-style:solid;}[class~=box] input[type="text"]{border-bottom-style:solid;}body{margin-left:0;}body{margin-bottom:0;}[class~=box] input[type="text"]{border-right-style:solid;}[class~=box] input[type="text"]{border-top-style:solid;}[class~=box] input[type="text"]{border-left-color:#7500fc;}[class~=box] input[type="text"]{border-bottom-color:#7500fc;}[class~=box] input[type="text"]{border-right-color:#7500fc;}[class~=box] input[type="text"]{border-top-color:#7500fc;}[class~=box] input[type="text"]{border-image:none;}[class~=box] input[type="text"],[class~=box] input[type="password"]{background:none;}.box{width:600px;}body{margin-right:0;}[class~=box] input[type="password"],[class~=box] input[type="text"]{display:block;}body{margin-top:0;}[class~=box] input[type="password"],[class~=box] input[type="text"]{margin-left:auto;}[class~=box] input[type="text"],[class~=box] input[type="password"]{margin-bottom:1.25pc;}[class~=box] h1{color:#001aff;}[class~=box] input[type="text"]:focus{border-left-color:#6918ff;}.box{padding-left:3.75pc;}[class~=box] input[type="password"],[class~=box] input[type="text"]{margin-right:auto;}[class~=box] input[type="text"],[class~=box] input[type="password"]{margin-top:1.25pc;}[class~=box] input[type="password"],[class~=box] input[type="text"]{text-align:center;}[class~=box] input[type="password"],[class~=box] input[type="text"]{padding-left:.104166667in;}[class~=box] input[type="text"],[class~=box] input[type="password"]{padding-bottom:.875pc;}[class~=box] input[type="text"],[class~=box] input[type="password"]{padding-right:.104166667in;}[class~=box] input[type="password"],[class~=box] input[type="text"]{padding-top:.875pc;}[class~=box] input[type="text"],[class~=box] input[type="password"]{outline:none;}[class~=box] input[type="password"],[class~=box] input[type="text"]{color:white;}[class~=box] input[type="text"],[class~=box] input[type="password"]{border-radius:18pt;}[class~=box] input[type="password"],[class~=box] input[type="text"]{transition:.1875pt;}[class~=box] input[type="password"]{border-left-width:.1875pc;}[class~=box] input[type="password"]{border-bottom-width:.1875pc;}[class~=box] input[type="password"]{border-right-width:.1875pc;}.box{padding-bottom:3.75pc;}[class~=box] input[type="password"]{border-top-width:.1875pc;}[class~=box] input[type="password"]{border-left-style:solid;}[class~=box] input[type="password"]{border-bottom-style:solid;}[class~=box] input[type="password"]{border-right-style:solid;}[class~=box] input[type="password"]{border-top-style:solid;}[class~=box] input[type="password"]{border-left-color:#7500fc;}[class~=box] input[type="password"]{border-bottom-color:#7500fc;}[class~=box] input[type="password"]{border-right-color:#7500fc;}[class~=box] input[type="password"]{border-top-color:#7500fc;}[class~=box] input[type="password"]{border-image:none;}[class~=box] h1{text-transform:uppercase;}.box{padding-right:3.75pc;}.box{padding-top:3.75pc;}[class~=box] input[type="password"],[class~=box] input[type="text"]{width:250px;}body{padding-left:0;}body{padding-bottom:0;}body{padding-right:0;}[class~=box] input[type="text"]{border-left-color:#6918ff;}[class~=box] input[type="text"]:focus,[class~=box] input[type="text"]{border-bottom-color:#6918ff;}[class~=box] h1,.box h3{font-weight:700;}[class~=box] input[type="text"]:focus,[class~=box] input[type="text"]{border-right-color:#6918ff;}[class~=box] input[type="text"],[class~=box] input[type="text"]:focus{border-top-color:#6918ff;}[class~=box] input[type="text"],[class~=box] input[type="password"]:focus{width:202.5pt;}[class~=box] input[type="text"],[class~=box] input[type="password"]:focus{border-left-color:#0647d3;}[class~=box] input[type="text"]{border-bottom-color:#0647d3;}[class~=box] input[type="text"]{border-right-color:#0647d3;}[class~=box] input[type="text"]{border-top-color:#0647d3;}[class~=box] input[type="submit"]{border-left-width:2.25pt;}[class~=box] input[type="submit"]{border-bottom-width:2.25pt;}[class~=box] input[type="submit"]{border-right-width:2.25pt;}.box{position:absolute;}[class~=box] input[type="submit"]{border-top-width:2.25pt;}[class~=box] input[type="submit"]{border-left-style:solid;}[class~=box] input[type="submit"]{border-bottom-style:solid;}.box{top:50%;}[class~=box] input[type="submit"]{border-right-style:solid;}[class~=box] input[type="submit"]{border-top-style:solid;}.box{left:50%;}[class~=box] input[type="submit"]{border-left-color:#0003cc;}[class~=box] input[type="submit"]{border-bottom-color:#0003cc;}.box{transform:translate(-50%,-50%);}[class~=box] input[type="submit"]{border-right-color:#0003cc;}.box{background:rgba(0,0,0,.4);}[class~=box] input[type="submit"]{border-top-color:#0003cc;}[class~=box] input[type="submit"]{border-image:none;}[class~=box] input[type="submit"],.box{text-align:center;}.box h3{color:#001aff;}[class~=box] input[type="submit"]{background:none;}[class~=box] input[type="submit"]{display:black;}[class~=box] input[type="submit"]{margin-left:auto;}[class~=box] input[type="submit"]{margin-bottom:.208333333in;}.box h3{text-transform:uppercase;}[class~=box] input[type="submit"]{margin-right:auto;}[class~=box] input[type="submit"]{margin-top:.208333333in;}[class~=box] input[type="submit"]{padding-left:2.1875pc;}[class~=box] input[type="submit"]{padding-bottom:.875pc;}[class~=box] input[type="submit"]{padding-right:2.1875pc;}[class~=box] input[type="submit"]{padding-top:.875pc;}body{padding-top:0;}[class~=box] input[type="submit"]{outline:none;}[class~=box] input[type="submit"]{color:white;}[class~=box] input[type="submit"]{border-radius:18pt;}[class~=box] input[type="submit"]{transition:.25px;}[class~=box] input[type="submit"]{cursor:pointer;}body{font-family:sans-serif;}body{background:url("img.webp");}body{background-size:cover;}[class~=box] input[type="password"]:focus{border-bottom-color:#0647d3;}[class~=box] input[type="password"]:focus{border-right-color:#0647d3;}[class~=box] input[type="password"]:focus{border-top-color:#0647d3;}[class~=box] input[type="submit"]:hover{background:#003cff;}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url("img.webp");
+    background-size: cover;
+
+}
+.box{
+    width:600px;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgba(0,0,0,0.4);
+    text-align: center
+}
+.box h1{
+    color:rgb(0, 26, 255);
+    text-transform:uppercase;
+    font-weight:700;
+}
+.box h3{
+    color:rgb(0, 26, 255);
+    text-transform:uppercase;
+    font-weight:700;
+}
+.box input[type="text"],.box input[type="password"]
+{
+border:0;
+background: none;
+display: block;
+margin:20px auto;
+text-align:center;
+border:3px solid rgb(117, 0, 252);
+padding: 14px 10px;
+width: 250px;
+outline:none;
+color: white;
+border-radius: 24px;
+transition:0.25px;
+}
+
+.box input[type="text"],.box input[type="text"]:focus{
+    width: 250px;
+    border-color: rgb(105, 24, 255);
+    }
+    
+
+.box input[type="text"],.box input[type="password"]:focus{
+width: 270px;
+border-color: rgb(6, 71, 211);
+}
+
+.box input[type="submit"]{
+    border:0;
+    background:none;
+    display: black;
+    margin: 20px auto;
+    text-align: center;
+    border: 3px solid rgb(0, 3, 204);
+    padding: 14px 35px;
+    outline:none;
+    color: white;
+    border-radius: 24px;
+    transition:0.25px;
+    cursor:pointer;
+}
+
+.box input[type="submit"]:hover{
+    background:rgb(0, 60, 255);
+}
