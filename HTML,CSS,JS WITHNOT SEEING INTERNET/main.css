@@ -1,0 +1,23 @@
+.main button{
+  background-color:rgb(49, 117, 245);
+  text-align:center;
+  padding:10px;
+  margin: 10px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  max-width: 8%;
+  padding: 10px;
+  border-radius: 11%;
+  font-weight: 11%;
+  color: rgb(0, 0, 0);
+}
+.main button:hover{
+  background-color:rgb(106, 133, 255);
+}
+.main b:hover{
+  background-color:rgb(106, 133, 255);
+}
+.main b{
+  background: rgb(106, 133, 255);
+}
